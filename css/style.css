@@ -1,4 +1,9 @@
 /*css selectors*/
+#search {
+    padding: 4px;
+    width: 300px;
+}
+
 #agenda-telefonica {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
